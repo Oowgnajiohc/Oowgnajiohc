@@ -2,11 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=223035&height=120&text=Hello!👋&animation=&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #ffffff;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 노력은 배신하지않은다를 추구하는 개발자입니다.</li>결과보다 과정에서 배우는 것을 중요하게 생각하며,</li>매 순간 배움의 기회를 놓치지 않고 관찰하는 개발자가 되겠습니다. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #ffffff;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
