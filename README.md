@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #ffffff;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 뭐라도 하자는 생각을 하는 개발자입니다.</li>
-        결과보다 과정에서 배우는 것을 중요하게 생각하며,</li>매 순간 배움의 기회를 놓치지 않고 관찰하는 개발자가 되겠습니다. </div> 
+        결과보다 과정에서 배우는 것을 중요하게 생각하며, </li>매 순간 배움의 기회를 놓치지 않고 관찰하는 개발자가 되겠습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #ffffff;"> 🛠️ Tech Stacks </h2> <br> 
